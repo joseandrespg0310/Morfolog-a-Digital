@@ -1,0 +1,17 @@
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\bin\Debug\net8.0-windows\ExamenJoseAndres.exe
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\bin\Debug\net8.0-windows\ExamenJoseAndres.deps.json
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\bin\Debug\net8.0-windows\ExamenJoseAndres.runtimeconfig.json
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\bin\Debug\net8.0-windows\ExamenJoseAndres.dll
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\bin\Debug\net8.0-windows\ExamenJoseAndres.pdb
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.Form1.resources
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.Form2.resources
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\ExamenJoseAndres.csproj.GenerateResource.cache
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\ExamenJoseAndres.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\ExamenJoseAndres.AssemblyInfoInputs.cache
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\ExamenJoseAndres.AssemblyInfo.cs
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\ExamenJoseAndres.csproj.CoreCompileInputs.cache
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\ExamenJoseAndres.dll
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\refint\ExamenJoseAndres.dll
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\ExamenJoseAndres.pdb
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\ExamenJoseAndres.genruntimeconfig.cache
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\ref\ExamenJoseAndres.dll

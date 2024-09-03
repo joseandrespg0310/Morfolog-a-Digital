@@ -1,0 +1,34 @@
+C:\Users\elcha\OneDrive\Escritorio\5to Semestre\Procesamiento d imagenes\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.Form1.resources
+C:\Users\elcha\OneDrive\Escritorio\5to Semestre\Procesamiento d imagenes\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.csproj.GenerateResource.cache
+C:\Users\elcha\OneDrive\Escritorio\5to Semestre\Procesamiento d imagenes\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elcha\OneDrive\Escritorio\5to Semestre\Procesamiento d imagenes\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.AssemblyInfoInputs.cache
+C:\Users\elcha\OneDrive\Escritorio\5to Semestre\Procesamiento d imagenes\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.AssemblyInfo.cs
+C:\Users\elcha\OneDrive\Escritorio\5to Semestre\Procesamiento d imagenes\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\elcha\OneDrive\Escritorio\5to Semestre\Procesamiento d imagenes\Pro_preosesamiento_ejercicios\bin\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.exe
+C:\Users\elcha\OneDrive\Escritorio\5to Semestre\Procesamiento d imagenes\Pro_preosesamiento_ejercicios\bin\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.deps.json
+C:\Users\elcha\OneDrive\Escritorio\5to Semestre\Procesamiento d imagenes\Pro_preosesamiento_ejercicios\bin\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.runtimeconfig.json
+C:\Users\elcha\OneDrive\Escritorio\5to Semestre\Procesamiento d imagenes\Pro_preosesamiento_ejercicios\bin\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.dll
+C:\Users\elcha\OneDrive\Escritorio\5to Semestre\Procesamiento d imagenes\Pro_preosesamiento_ejercicios\bin\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.pdb
+C:\Users\elcha\OneDrive\Escritorio\5to Semestre\Procesamiento d imagenes\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.dll
+C:\Users\elcha\OneDrive\Escritorio\5to Semestre\Procesamiento d imagenes\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\refint\Pro_preosesamiento_ejercicios.dll
+C:\Users\elcha\OneDrive\Escritorio\5to Semestre\Procesamiento d imagenes\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.pdb
+C:\Users\elcha\OneDrive\Escritorio\5to Semestre\Procesamiento d imagenes\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.genruntimeconfig.cache
+C:\Users\elcha\OneDrive\Escritorio\5to Semestre\Procesamiento d imagenes\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\ref\Pro_preosesamiento_ejercicios.dll
+C:\Users\elcha\OneDrive\Escritorio\5to Semestre\Procesamiento d imagenes\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.Form2.resources
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\bin\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.exe
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\bin\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.deps.json
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\bin\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.runtimeconfig.json
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\bin\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.dll
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\bin\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.pdb
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.Form1.resources
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.Form2.resources
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.csproj.GenerateResource.cache
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.AssemblyInfoInputs.cache
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.AssemblyInfo.cs
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.csproj.CoreCompileInputs.cache
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.dll
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\refint\Pro_preosesamiento_ejercicios.dll
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.pdb
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\Pro_preosesamiento_ejercicios.genruntimeconfig.cache
+E:\Descargas\Examen\Pro_preosesamiento_ejercicios\obj\Debug\net8.0-windows\ref\Pro_preosesamiento_ejercicios.dll
